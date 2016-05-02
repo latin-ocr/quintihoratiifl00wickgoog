@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifl00wickgoog_0231.png"; bbox 0 0 3016 5026; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 259 2156 1341 2326">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 259 2156 1341 2326">
+     <span class='ocr_line' id='line_1_1' title="bbox 259 2156 1285 2249; baseline 0.002 -33"><span class='ocrx_word' id='word_1_1' title='bbox 259 2157 402 2235; x_wconf 85' lang='lat' dir='ltr'><strong>Epistulis</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 422 2157 463 2219; x_wconf 85' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 482 2156 622 2218; x_wconf 79' lang='lat' dir='ltr'>absentes</span> <span class='ocrx_word' id='word_1_4' title='bbox 643 2157 800 2236; x_wconf 87' lang='lat' dir='ltr'>loquimur,</span> <span class='ocrx_word' id='word_1_5' title='bbox 823 2175 961 2220; x_wconf 85' lang='lat' dir='ltr'>sermone</span> <span class='ocrx_word' id='word_1_6' title='bbox 981 2176 1051 2217; x_wconf 89' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1072 2159 1285 2249; x_wconf 60' lang='lat' dir='ltr'><strong>praesentibus.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1218 2268 1341 2326; baseline 0.008 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1218 2268 1341 2326; x_wconf 67' lang='lat' dir='ltr'>Aenon,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1512 5026">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1512 5026">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1512 5026; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1512 5026; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
